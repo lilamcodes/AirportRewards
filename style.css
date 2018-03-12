@@ -1,0 +1,35 @@
+html {
+  height: 100%;
+}
+  
+
+body { 
+  background-color: black; 
+  
+  color: white;
+  
+  background-image: url(background.jpeg); 
+  background position: center;
+  background-repeat: no-repeat;
+  background-size: auto;
+  
+    
+}
+/*Section CSS*/
+section{
+  
+  font-family: 'Merriweather', serif;
+  background-color: rgba(105, 105, 105, 0.3);
+  padding: 20 px;
+  margin: 50px auto;
+  text-align: center;
+  
+  
+}
+
+section1
+{
+  
+  text-align: = bottom;
+  
+}
